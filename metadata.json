@@ -1,0 +1,6 @@
+{
+  "name": "Ma Trận Tô Màu - Học Tập Tương Tác",
+  "description": "Trò chơi học tập trả lời câu hỏi trắc nghiệm giải mã ma trận tô màu kỳ diệu dành cho học sinh và giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
